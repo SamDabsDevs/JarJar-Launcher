@@ -1,0 +1,15 @@
+C:\Users\Administrator.5CD9228F42\Source\Repos\JarJar Launcher\bin\Release\JarJar Launcher.exe.config
+C:\Users\Administrator.5CD9228F42\Source\Repos\JarJar Launcher\bin\Release\JarJar Launcher.exe
+C:\Users\Administrator.5CD9228F42\Source\Repos\JarJar Launcher\bin\Release\JarJar Launcher.pdb
+C:\Users\Administrator.5CD9228F42\Source\Repos\JarJar Launcher\bin\Release\Guna.UI2.dll
+C:\Users\Administrator.5CD9228F42\Source\Repos\JarJar Launcher\bin\Release\Tulpep.NotificationWindow.dll
+C:\Users\Administrator.5CD9228F42\Source\Repos\JarJar Launcher\obj\Release\JarJar Launcher.csprojAssemblyReference.cache
+C:\Users\Administrator.5CD9228F42\Source\Repos\JarJar Launcher\obj\Release\JarJar_Launcher.Form1.resources
+C:\Users\Administrator.5CD9228F42\Source\Repos\JarJar Launcher\obj\Release\JarJar_Launcher.Form2.resources
+C:\Users\Administrator.5CD9228F42\Source\Repos\JarJar Launcher\obj\Release\JarJar_Launcher.Form3.resources
+C:\Users\Administrator.5CD9228F42\Source\Repos\JarJar Launcher\obj\Release\JarJar_Launcher.Properties.Resources.resources
+C:\Users\Administrator.5CD9228F42\Source\Repos\JarJar Launcher\obj\Release\JarJar Launcher.csproj.GenerateResource.cache
+C:\Users\Administrator.5CD9228F42\Source\Repos\JarJar Launcher\obj\Release\JarJar Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.5CD9228F42\Source\Repos\JarJar Launcher\obj\Release\JarJar Launcher.csproj.CopyComplete
+C:\Users\Administrator.5CD9228F42\Source\Repos\JarJar Launcher\obj\Release\JarJar Launcher.exe
+C:\Users\Administrator.5CD9228F42\Source\Repos\JarJar Launcher\obj\Release\JarJar Launcher.pdb
