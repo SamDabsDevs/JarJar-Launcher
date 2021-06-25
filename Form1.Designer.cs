@@ -48,6 +48,7 @@
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.notifyIcon1 = new System.Windows.Forms.NotifyIcon(this.components);
             this.notifyIcon2 = new System.Windows.Forms.NotifyIcon(this.components);
+            this.guna2ProgressBar1 = new Guna.UI2.WinForms.Guna2ProgressBar();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel3.SuspendLayout();
             this.panel2.SuspendLayout();
@@ -68,6 +69,7 @@
             // panel3
             // 
             this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(55)))), ((int)(((byte)(56)))), ((int)(((byte)(59)))));
+            this.panel3.Controls.Add(this.guna2ProgressBar1);
             this.panel3.Controls.Add(this.guna2Button1);
             this.panel3.Controls.Add(this.guna2Button2);
             this.panel3.Controls.Add(this.guna2Button3);
@@ -308,6 +310,16 @@
             this.notifyIcon2.BalloonTipClicked += new System.EventHandler(this.notifyIcon2_BalloonTipClicked);
             this.notifyIcon2.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.notifyIcon2_MouseDoubleClick);
             // 
+            // guna2ProgressBar1
+            // 
+            this.guna2ProgressBar1.Location = new System.Drawing.Point(7, 206);
+            this.guna2ProgressBar1.Name = "guna2ProgressBar1";
+            this.guna2ProgressBar1.ShadowDecoration.Parent = this.guna2ProgressBar1;
+            this.guna2ProgressBar1.Size = new System.Drawing.Size(456, 19);
+            this.guna2ProgressBar1.TabIndex = 9;
+            this.guna2ProgressBar1.TextRenderingHint = System.Drawing.Text.TextRenderingHint.SystemDefault;
+            this.guna2ProgressBar1.Visible = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -350,6 +362,7 @@
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel1;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel3;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel2;
+        private Guna.UI2.WinForms.Guna2ProgressBar guna2ProgressBar1;
     }
 }
 
